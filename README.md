@@ -1,2 +1,0 @@
-# recipes
-Collection of recipes
