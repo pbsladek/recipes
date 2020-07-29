@@ -1,8 +1,8 @@
-![logo](_media/grapes.svg ':size=100%')
-![logo](_media/wine-bottle.svg ':size=100%')
-![logo](_media/chef-hat.svg ':size=100%')
-![logo](_media/sauce-mustard.svg ':size=100%')
-![logo](_media/olive.svg ':size=100%')
+![logo](_media/grapes.svg ':size=5%')
+![logo](_media/wine-bottle.svg ':size=5%')
+![logo](_media/chef-hat.svg ':size=5%')
+![logo](_media/sauce-mustard.svg ':size=5%')
+![logo](_media/olive.svg ':size=5%')
 
 # Sladek Home Recipes <small>0.0.1</small>
 
